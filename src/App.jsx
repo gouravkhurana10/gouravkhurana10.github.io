@@ -288,7 +288,7 @@ export default function Portfolio() {
         <div style={styles.grid} />
         <div style={styles.heroContent}>
           <div style={{ opacity: 0, animation: "fadeSlideUp 0.8s ease 0.2s forwards" }}>
-            <span style={styles.heroTag}>Available for opportunities in GTA</span>
+            {/* <span style={styles.heroTag}>Available for opportunities in GTA</span> */}
             <h1 style={styles.heroName}>Gourav Khurana</h1>
             <div style={styles.heroTitle}>
               {typed}<span style={styles.heroCursor} />
