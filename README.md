@@ -16,16 +16,6 @@ I'm a Toronto-based QA Analyst with hands-on experience in both manual and autom
 - GitHub Pages (deployment)
 - gh-pages (automated deployment)
 
-## Sections
-
-- **Hero** - Introduction with animated typewriter effect
-- **About** - Background, education, and stats
-- **Skills** - QA tools, automation frameworks, and methodologies
-- **Experience** - Manulife and Concentrix work history
-- **Projects** - Personal Finance Tracker and Bug Tracker Application
-- **Certifications** - ISTQB and other credentials
-- **Contact** - Links and availability
-
 ## Contact
 
 - 📧 gouravkhurana10@gmail.com
