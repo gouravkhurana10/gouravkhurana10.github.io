@@ -1,6 +1,6 @@
-# Gourav Khurana — Portfolio
+# Gourav Khurana - Portfolio
 
-Personal portfolio website built with React and Vite, showcasing my QA experience, skills, and projects.
+Personal portfolio website built with React, showcasing my QA experience, skills, and projects.
 
 🌐 **Live Site:** [gouravkhurana10.github.io](https://gouravkhurana10.github.io)
 
@@ -11,7 +11,6 @@ I'm a Toronto-based QA Analyst with hands-on experience in both manual and autom
 ## Built With
 
 - React.js
-- Vite
 - JavaScript (ES6+)
 - CSS-in-JS
 - GitHub Pages (deployment)
@@ -26,28 +25,6 @@ I'm a Toronto-based QA Analyst with hands-on experience in both manual and autom
 - **Projects** — Personal Finance Tracker and Bug Tracker Application
 - **Certifications** — ISTQB and other credentials
 - **Contact** — Links and availability
-
-## Local Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run locally
-npm run dev
-```
-
-## Deployment
-
-```bash
-# Push source code
-git add .
-git commit -m "your message"
-git push origin main
-
-# Deploy live site
-npm run deploy
-```
 
 ## Contact
 
