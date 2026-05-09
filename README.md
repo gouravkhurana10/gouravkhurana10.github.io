@@ -1,16 +1,58 @@
-# React + Vite
+# Gourav Khurana — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with React and Vite, showcasing my QA experience, skills, and projects.
 
-Currently, two official plugins are available:
+🌐 **Live Site:** [gouravkhurana10.github.io](https://gouravkhurana10.github.io)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+I'm a Toronto-based QA Analyst with hands-on experience in both manual and automation testing, backed by an ISTQB Certified Tester Foundation Level (CTFL) certification. This portfolio highlights my professional experience, personal projects, certifications, and skills.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built With
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS-in-JS
+- GitHub Pages (deployment)
+- gh-pages (automated deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Sections
+
+- **Hero** — Introduction with animated typewriter effect
+- **About** — Background, education, and stats
+- **Skills** — QA tools, automation frameworks, and methodologies
+- **Experience** — Manulife and Concentrix work history
+- **Projects** — Personal Finance Tracker and Bug Tracker Application
+- **Certifications** — ISTQB and other credentials
+- **Contact** — Links and availability
+
+## Local Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+## Deployment
+
+```bash
+# Push source code
+git add .
+git commit -m "your message"
+git push origin main
+
+# Deploy live site
+npm run deploy
+```
+
+## Contact
+
+- 📧 gouravkhurana10@gmail.com
+- 📞 +1 416-400-6164
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gourav-khurana/)
+- 💻 [GitHub](https://github.com/gouravkhurana10)
+- 🌐 [Portfolio](https://gouravkhurana10.github.io)
